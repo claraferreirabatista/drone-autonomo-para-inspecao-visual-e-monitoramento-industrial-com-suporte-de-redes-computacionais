@@ -1,4 +1,6 @@
-### "Desenvolvimento de Drone Autônomo para Inspeção Visual e Monitoramento Industrial com Suporte de Redes Computacionais"
+***
+# Desenvolvimento de Drone Autônomo para Inspeção Visual e Monitoramento Industrial com Suporte de Redes Computacionais
+***
 
 #### Objetivo Geral
 
