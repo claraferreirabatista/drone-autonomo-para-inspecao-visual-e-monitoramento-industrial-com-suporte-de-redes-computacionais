@@ -1,4 +1,7 @@
-**{c:red}ATENÇÃO!{/c}**
+
+***
+# <font color=red size=10>ATENÇÃO!</font>
+***
 
 
 Esse plano progressivo permite que todos os participantes, independentemente do nível de habilidade inicial, possam contribuir e aprender ao longo do projeto, garantindo um desenvolvimento estruturado e eficaz.
