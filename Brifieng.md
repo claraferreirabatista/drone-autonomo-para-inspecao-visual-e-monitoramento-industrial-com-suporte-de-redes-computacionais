@@ -1,4 +1,4 @@
-**<span style="color:red">ATENÇÃO</span>**
+**{c:red}ATENÇÃO!{/c}**
 
 
 Esse plano progressivo permite que todos os participantes, independentemente do nível de habilidade inicial, possam contribuir e aprender ao longo do projeto, garantindo um desenvolvimento estruturado e eficaz.
