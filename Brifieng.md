@@ -9,7 +9,7 @@ Esse plano progressivo permite que todos os participantes, independentemente do 
 
 
 
-### Fase 1: Introdução e Conceituação
+### Fase 1: Introdução e Conceituação kkkkk
 
 **Objetivo:** Familiarizar os participantes com o projeto e suas expectativas.
 
